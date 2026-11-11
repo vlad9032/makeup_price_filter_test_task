@@ -1,0 +1,23 @@
+{
+  "name": "makeup_price_filter_test_task",
+  "version": "1.0.0",
+  "description": "makeup test task",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlad9032/makeup_price_filter_test_task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vlad9032/makeup_price_filter_test_task/issues"
+  },
+  "homepage": "https://github.com/vlad9032/makeup_price_filter_test_task#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
