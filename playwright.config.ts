@@ -27,9 +27,7 @@ export default defineConfig({
   use: {
     baseURL: 'https://makeup.com.ua',
     locale: 'uk-UA',
-    launchOptions: {
-      args: ['--lang=uk-UA'],
-    },
+    
     trace: 'on-first-retry',
   },
 
